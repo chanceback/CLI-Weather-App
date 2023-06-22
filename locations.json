@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "city": "Denver",
+      "state": "Colorado"
+    },
+    {
+      "city": "Shreveport",
+      "state": "Louisiana"
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington"
+    }
+  ]
+}
